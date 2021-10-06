@@ -17,7 +17,7 @@ int main()
     printf("Hello World\n");
     struct node *local=(struct node *)malloc(sizeof(struct node));
     int getaback=newname(local);
-
+    free(local);
     return 0;
 }
 int newname(struct node * value)
