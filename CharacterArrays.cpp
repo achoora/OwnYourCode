@@ -1,4 +1,4 @@
-/* Different types of initialization and Errors with characer strings and character arrays */ 
+/* Different types of initialization and Errors with character strings and character arrays */ 
 
 #include <stdio.h> 
 #include <stdlib.h> 
